@@ -1,3 +1,3 @@
 # Aryan-demo
-this is my demo repository
+This is my First Git Repository.
 Author - Aryan Jain
